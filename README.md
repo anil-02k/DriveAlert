@@ -2,6 +2,10 @@
 
 This project detects drowsiness in real-time using a webcam and triggers an alarm to prevent accidents.
 
+## DriveAlert AWS Architecture Overview
+
+![DriveAlert AWS architecture](./drivealert-aws-architecture.png)
+
 ## Features
 - Detects drowsiness based on eye blink patterns.
 - Identifies yawning based on mouth movements.
