@@ -4,7 +4,7 @@ This project detects drowsiness in real-time using a webcam and triggers an alar
 
 ## DriveAlert AWS Architecture Overview
 
-![DriveAlert AWS architecture](./drowness detection.png)
+![DriveAlert AWS architecture](https://github.com/anil-02k/DriveAlert/blob/main/drowness%20detection.png)
 
 ## Features
 - Detects drowsiness based on eye blink patterns.
